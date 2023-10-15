@@ -7,6 +7,11 @@ body {
     text-align: right;
   }
   
+  .under{
+    border-bottom: dashed 1px #000000;
+  }
+
+
   h1 {
     font-size: 1.5em;
   }
